@@ -1,0 +1,106 @@
+
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width,initial-scale=1" />
+  <title>Chicolata Chikita | WhatsApp</title>
+  <meta name="description" content="Choose a WhatsApp number to message." />
+  <style>
+    :root {
+      --bg1:#1a0c2b;
+      --bg2:#4b1236;
+      --gold:#d8b46a;
+      --card:#0f081a;
+      --text:#ffffff;
+      --muted:#d9c8f0;
+    }
+    *{box-sizing:border-box}
+    body {
+      margin:0;
+      font-family: -apple-system,BlinkMacSystemFont,Segoe UI,Roboto,Helvetica,Arial,sans-serif;
+      background: radial-gradient(1200px 600px at 20% 10%, #3b1a5e 0%, var(--bg1) 40%, var(--bg2) 100%);
+      color:var(--text);
+      padding:24px;
+    }
+    .wrap {
+      max-width:520px;
+      margin:0 auto;
+    }
+    .header {
+      background: rgba(15,8,26,.75);
+      border:1px solid rgba(216,180,106,.45);
+      border-radius:18px;
+      padding:18px 18px 14px;
+      box-shadow: 0 10px 30px rgba(0,0,0,.35);
+      backdrop-filter: blur(6px);
+    }
+    h1 {
+      margin:0 0 6px 0;
+      font-size:22px;
+      letter-spacing:.2px;
+    }
+    p {
+      margin:0;
+      color:var(--muted);
+      line-height:1.35;
+      font-size:14px;
+    }
+    .grid {
+      margin-top:14px;
+      display:grid;
+      gap:12px;
+    }
+    .btn {
+      display:flex;
+      align-items:center;
+      gap:10px;
+      width:100%;
+      padding:14px 14px;
+      border-radius:16px;
+      text-decoration:none;
+      background: rgba(15,8,26,.82);
+      border:1px solid rgba(216,180,106,.55);
+      color:var(--text);
+      font-size:16px;
+      box-shadow: 0 8px 22px rgba(0,0,0,.28);
+    }
+    .btn:active { transform: translateY(1px); }
+    .tag {
+      display:inline-flex;
+      align-items:center;
+      justify-content:center;
+      min-width:54px;
+      padding:6px 10px;
+      border-radius:999px;
+      background: rgba(216,180,106,.15);
+      border:1px solid rgba(216,180,106,.6);
+      color: var(--gold);
+      font-weight:700;
+      letter-spacing:.6px;
+      font-size:13px;
+    }
+    .foot {
+      margin-top:14px;
+      font-size:12px;
+      color: rgba(255,255,255,.7);
+      text-align:center;
+    }
+  </style>
+</head>
+<body>
+  <div class="wrap">
+    <div class="header">
+      <h1>Chicolata Chikita Escorting Advertising Suitable area — WhatsApp</h1>
+      <p>Tap the right number below to open WhatsApp chat instantly.</p>
+      <div class="grid">
+        <a class="btn" href="https://wa.me/447351974837?text=Hi,%20I%20scanned%20your%20sticker%20(N15)."><span class="tag">N15</span> WhatsApp 07351 974837</a>
+        <a class="btn" href="https://wa.me/447444858105?text=Hi,%20I%20scanned%20your%20sticker%20(E15)."><span class="tag">E15</span> WhatsApp 07444 858105</a>
+        <a class="btn" href="https://wa.me/447901754818?text=Hi,%20I%20scanned%20your%20sticker%20(IG1)."><span class="tag">IG1</span> WhatsApp 07901 754818</a>
+        <a class="btn" href="https://wa.me/447346635060?text=Hi,%20I%20scanned%20your%20sticker%20(E11)."><span class="tag">E11</span> WhatsApp 07346 635060</a>
+      </div>
+      <div class="foot">If WhatsApp doesn't open, make sure it's installed (or you'll be taken to WhatsApp Web).</div>
+    </div>
+  </div>
+</body>
+</html>
